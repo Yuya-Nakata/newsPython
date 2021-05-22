@@ -1,0 +1,111 @@
+開発環境狙うサプライチェーン攻撃、「Codecov」が標的に
+https://www.security-next.com/126425
+
+原子力規制委への不正アクセス、VPNの既知脆弱性が起点に
+https://www.security-next.com/126401
+
+「改正個人情報の保護法」のガイドライン改正でパブコメ実施
+https://www.security-next.com/126351
+
+不正アクセス被害のランドブレイン、調査結果を公表 - ランサムウェアは「Cring」
+https://www.security-next.com/126310
+
+メルカリが不正アクセス被害 - 開発ツール「Codecov」侵害の影響で
+https://www.security-next.com/126436
+
+マッチングアプリ「Omiai」の会員情報171万件が流出した可能性
+https://www.security-next.com/126429
+
+開発環境狙うサプライチェーン攻撃、「Codecov」が標的に
+https://www.security-next.com/126425
+
+原子力規制委への不正アクセス、VPNの既知脆弱性が起点に
+https://www.security-next.com/126401
+
+認証サーバでアクセス制御する「SaaS」も標的 - 多段階攻撃で侵入被害
+https://www.security-next.com/125796
+
+サイバー防御演習「CYDER」の受講受付を開始 - 新コースも
+https://www.security-next.com/126411
+
+不正アクセスで運航情報管理システムの情報が流出か - 成田国際空港
+https://www.security-next.com/126399
+
+新型コロナの入院患者情報をメールで誤送信、宛先入力ミスで
+https://www.security-next.com/126404
+
+「改正個人情報の保護法」のガイドライン改正でパブコメ実施
+https://www.security-next.com/126351
+
+外部クラウド利用したカードローン申込窓口に設定不備 - 三井住友信託銀
+https://www.security-next.com/126359
+
+香水通販サイトに不正アクセス -  クレカ情報が流出
+https://www.security-next.com/126367
+
+「ヨドバシカメラ」を装うフィッシングに注意
+https://www.security-next.com/126384
+
+公表資料で個人情報の黒塗り加工に不備 - 岐阜大
+https://www.security-next.com/126369
+
+ドコモ、個人情報の流出モニタリングサービス
+https://www.security-next.com/126362
+
+クライアントのログ管理サービスをクラウドで提供 - ラネクシー
+https://www.security-next.com/126326
+
+不正アクセス被害のランドブレイン、調査結果を公表 - ランサムウェアは「Cring」
+https://www.security-next.com/126310
+
+「PR TIMES」で障害、一部プレスリリースが未配信に
+https://www.security-next.com/126323
+
+権限昇格の脆弱性を修正した「Boot Camp 6.1.14」が公開
+https://www.security-next.com/126331
+
+国内最大級のCTF大会「SECCON 2021」、12月に開催 - 初心者向けCTFなど5月よりスタート
+https://www.security-next.com/126313
+
+制御システムのリスク分析を解説するセミナー - IPA
+https://www.security-next.com/126321
+
+電気通信事業法の届出関連文書をメールに誤添付 - 総務省
+https://www.security-next.com/126328
+
+ゲーマー向け「ノートン」が発売 - ゲーム用にCPU処理能力を確保する新機能
+https://www.security-next.com/126318
+
+欧州グループ会社にサイバー攻撃 - ダイハツディーゼル
+https://www.security-next.com/126288
+
+欧州で拡散するAndroid狙うマルウェア「FluBot」 - 荷物追跡アプリ偽装
+https://www.security-next.com/126274
+
+着物クリーニングサイトに不正アクセス - クレカ情報が流出
+https://www.security-next.com/126271
+
+ディノス通販サイトに1605回のログイン試行 - 41件で不正ログイン
+https://www.security-next.com/126290
+
+宛先違いや誤操作で新型コロナ患者情報を誤ファックス - 名古屋市
+https://www.security-next.com/126293
+
+ひとり暮らし高齢者の調査票や住基台帳抜粋資料を紛失 - 生駒市
+https://www.security-next.com/126167
+
+高齢者リスト含む書類を弁当配達中に紛失
+https://www.security-next.com/126283
+
+欧州5拠点で同時多発的なランサム被害 - 東芝テック
+https://www.security-next.com/126220
+
+メガネブランド「Zoff」のインターメスティックがランサム被害
+https://www.security-next.com/126233
+
+「Mirai」国内感染ホスト、約半数がロジテック製ルータ
+https://www.security-next.com/126215
+
+2021年05月の記事一覧へ
+https://www.security-next.com/date/2021/05
+
